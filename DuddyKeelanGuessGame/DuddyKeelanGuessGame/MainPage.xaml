@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DuddyKeelanGuessGame.MainPage">
+
+    <StackLayout x:Name="MainContent">
+        <Frame BackgroundColor="LightPink" Padding="24" CornerRadius="0">
+            <Label Text="Guess The Number Game!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+        <Label x:Name="lblNumGo" Text="Goes left"/>
+
+        <StackLayout x:Name="YourNumber" Orientation="Horizontal"
+                     HorizontalOptions="Center">
+
+            <Label Text="Enter your guess between 1-10 : " />
+            <Entry x:Name="EntryNumber" Placeholder="0" Keyboard="Numeric"/>
+
+        </StackLayout>
+
+        <Label x:Name="LblGuessValue" Text="Guess was: "
+               HorizontalOptions="Center"/>
+
+        <Button x:Name="BtnGuess" Text="Guess"
+                BorderColor="LightPink"
+               HorizontalOptions="Center"
+               Clicked="BtnGuess_Clicked"/>
+
+        <Label x:Name="LblRemind" Text="(Remember a New Number Randomly Generates Each Time Guess Is Clicked - So Enter Multiple Attempts!)" 
+               TextColor="PaleVioletRed"
+               HorizontalOptions="Center"/>
+
+
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\DuddyKeelanGuessGame\DuddyKeelanGuessGame\DuddyKeelanGuessGame\bin\Debug\netstandard2.0\DuddyKeelanGuessGame.deps.json
+C:\Users\Dell\source\repos\DuddyKeelanGuessGame\DuddyKeelanGuessGame\DuddyKeelanGuessGame\bin\Debug\netstandard2.0\DuddyKeelanGuessGame.dll
+C:\Users\Dell\source\repos\DuddyKeelanGuessGame\DuddyKeelanGuessGame\DuddyKeelanGuessGame\bin\Debug\netstandard2.0\ref\DuddyKeelanGuessGame.dll
+C:\Users\Dell\source\repos\DuddyKeelanGuessGame\DuddyKeelanGuessGame\DuddyKeelanGuessGame\bin\Debug\netstandard2.0\DuddyKeelanGuessGame.pdb
+C:\Users\Dell\source\repos\DuddyKeelanGuessGame\DuddyKeelanGuessGame\DuddyKeelanGuessGame\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dell\source\repos\DuddyKeelanGuessGame\DuddyKeelanGuessGame\DuddyKeelanGuessGame\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dell\source\repos\DuddyKeelanGuessGame\DuddyKeelanGuessGame\DuddyKeelanGuessGame\obj\Debug\netstandard2.0\DuddyKeelanGuessGame.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\DuddyKeelanGuessGame\DuddyKeelanGuessGame\DuddyKeelanGuessGame\obj\Debug\netstandard2.0\DuddyKeelanGuessGame.AssemblyInfo.cs
+C:\Users\Dell\source\repos\DuddyKeelanGuessGame\DuddyKeelanGuessGame\DuddyKeelanGuessGame\obj\Debug\netstandard2.0\DuddyKeelanGuessGame.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DuddyKeelanGuessGame\DuddyKeelanGuessGame\DuddyKeelanGuessGame\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dell\source\repos\DuddyKeelanGuessGame\DuddyKeelanGuessGame\DuddyKeelanGuessGame\obj\Debug\netstandard2.0\DuddyKeelanGuessGame.dll
+C:\Users\Dell\source\repos\DuddyKeelanGuessGame\DuddyKeelanGuessGame\DuddyKeelanGuessGame\obj\Debug\netstandard2.0\ref\DuddyKeelanGuessGame.dll
+C:\Users\Dell\source\repos\DuddyKeelanGuessGame\DuddyKeelanGuessGame\DuddyKeelanGuessGame\obj\Debug\netstandard2.0\DuddyKeelanGuessGame.pdb
+C:\Users\Dell\source\repos\DuddyKeelanGuessGame\DuddyKeelanGuessGame\DuddyKeelanGuessGame\obj\Debug\netstandard2.0\DuddyKeelanGuessGame.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DuddyKeelanGuessGame\DuddyKeelanGuessGame\DuddyKeelanGuessGame\obj\Debug\netstandard2.0\DuddyKeelanGuessGame.GeneratedMSBuildEditorConfig.editorconfig
